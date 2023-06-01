@@ -1,7 +1,7 @@
 # OpenAI LangChain Pandas DF Agent Query Streamlit App
 
 ### App V2 Improvemnts
-Added conversational memory and the abiliy for a continuos chat istead of a single Q&A
+Added conversational memory and the abiliy for a continuous chat istead of a single Q&A
 
 ### Description
 Python Streamlit web application designed to provide a user-friendly interface for querying and communicated with data from a CSV file using the OpenAI language model. 
