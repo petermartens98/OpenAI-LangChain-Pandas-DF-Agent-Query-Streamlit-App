@@ -16,4 +16,3 @@ A pandas dataframe agent is created using the OpenAI language model, and the use
 
 ### Example Screenshots App V1
 ![image](https://github.com/petermartens98/OpenAI-LangChain-Pandas-DF-Agent-Query-Streamlit-App/assets/87671757/d80e6c6c-7afa-4c13-9b7c-57f8817b6515)
-![image](https://github.com/petermartens98/OpenAI-LangChain-Pandas-DF-Agent-Query-Streamlit-App/assets/87671757/732abffc-7e37-4223-b60b-306daee62631)
