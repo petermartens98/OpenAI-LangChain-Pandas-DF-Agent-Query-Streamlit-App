@@ -11,6 +11,16 @@ The main functionality of the script is contained within the main() function. It
 
 A pandas dataframe agent is created using the OpenAI language model, and the user is prompted to enter a query. Upon clicking the "Execute" button, the query is sent to the agent, and the answer as well as conversation is displayed on the application interface. Overall, this script provides a convenient way for users to interact with their CSV data and obtain answers based on their queries using the OpenAI language model.
 
+### App V3 Improvements
+1. Implemented .env variable for OpenAI API key.
+2. Improved prompt for pandas df agent, taking into account prvious chats.
+3. Improved CSS
+4. .XLSX File Support
+5. LLM Temperature Slider
+
+### App V3 Screenshot
+![image](https://github.com/petermartens98/OpenAI-LangChain-Pandas-DF-Agent-Query-Streamlit-App/assets/87671757/51e20a6f-bc16-4cdb-bd9e-75c6b9f0bd42)
+
 ### App V2 Improvemnts
 Added conversational memory and the abiliy for a continuous chat istead of a single Q&A
 
